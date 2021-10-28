@@ -1,2 +1,2 @@
 # NetDoc Spring Boot Project
-NetCracker Training Project
+NetCracker Study Project
